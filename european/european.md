@@ -1,5 +1,5 @@
 # Bay Ridge Restaurant Guide
-## Europeam
+## European
 ---
 Select a specific Asian food:
 ## [Greek](greek.md)
